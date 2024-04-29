@@ -1,8 +1,10 @@
 # Git Assignment - IhorKyl
 
 a. What is an issue?
+GitHub issues are an extremely useful tool for communicating decisions, ideas and
+problems that are project specific.
 
-b. What is a pull request?
+b. What is a pull request? If collaborators don't have direct access (push access ) they can make "pull request" to give request for merging branch with changes.
 
 c. How do I open up a pull request?
 
