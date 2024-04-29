@@ -4,7 +4,7 @@ a. What is an issue?
 GitHub issues are an extremely useful tool for communicating decisions, ideas and
 problems that are project specific.
 
-b. What is a pull request? If collaborators don't have direct access (push access ) they can make "pull request" to give request for merging branch with changes.
+b. What is a pull request? A pull request is a mechanism for proposing changes to a repository and requesting that those changes be reviewed and merged into a target branch, typically the main branch.
 
 c. How do I open up a pull request?
  1.Go to repository of the project
