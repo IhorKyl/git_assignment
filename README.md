@@ -28,5 +28,7 @@ f. What does git diff do?
 Git diff compares what is in our working directory to what is in our staging area. If we've made changes to our files without running git add , we'll see the comparison. If there are no differences, nothing will be shown.
 
 g. What is the main branch?
+The main branch serves as the starting point for development and often reflects the most stable version of the project. Developers typically create feature branches from the main branch, work on new features or fixes, and then merge those changes back into the main branch once they are completed and tested.
 
 h. Besides our initial commit if it is a new repository, should we directly push our changes directly into the main branch?
+It's strongly not recomended however technically possible to push changes directly to the main branch. Following a branching strategy and utilizing pull requests for code review and integration offers several benefits in terms of collaboration, code quality, and stability.
