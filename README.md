@@ -22,8 +22,10 @@ d. Give me a step by step guide on how to add someone to your repository.
 6.Press green confirmation button "Add <suername> to tis repository"
 
 e. What is the difference between git and GitHub?
+Git is the version control system itself, while GitHub is a platform built around Git that adds collaboration and project management features.
 
 f. What does git diff do?
+Git diff compares what is in our working directory to what is in our staging area. If we've made changes to our files without running git add , we'll see the comparison. If there are no differences, nothing will be shown.
 
 g. What is the main branch?
 
